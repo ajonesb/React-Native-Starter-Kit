@@ -1,2 +1,2 @@
 # React-Native-Starter-Kit
-A Starter Component Kit for React Native 
+A Starter Component Screens Kit for React Native 
